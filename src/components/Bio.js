@@ -1,6 +1,6 @@
 export default function Bio() {
   return (
-    <div>
+    <div className="bio">
       <img src="images/Rectangle 90.png" />
       <h3 className="bio--name">Laura Smith</h3>
       <h4 className="bio--position">Frontend Developer</h4>
