@@ -1,8 +1,10 @@
 import './App.css';
+import Card from "./components/Card"
+import Bio from "./components/Bio"
 
 function App() {
   return (
-    <h1>Digital Business Card</h1>
+    <Card /> 
   );
 }
 
