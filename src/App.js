@@ -4,7 +4,10 @@ import Bio from "./components/Bio"
 
 function App() {
   return (
-    <Card /> 
+    <main>
+      <Card /> 
+      <Card />
+    </main>
   );
 }
 
