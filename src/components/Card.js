@@ -4,7 +4,7 @@ import Interests from "./Interests"
 
 export default function Card() {
   return (
-    <div>
+    <div className="card">
       <Bio />
       <About />
       <Interests />
