@@ -4,10 +4,12 @@ import Interests from "./Interests"
 
 export default function Card() {
   return (
-    <div>
-      <Bio />
-      <About />
-      <Interests />
+    <div className="card-container">
+      <div className="card">
+        <Bio />
+        <About />
+        <Interests />
+      </div>
     </div>
   );
 }
