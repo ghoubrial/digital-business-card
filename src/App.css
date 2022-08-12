@@ -2,6 +2,10 @@ body {
  background-color: #1C1C1C;
 }
 
+main {
+  display: flex;
+}
+
 .card-container {
   margin: 53px 65px;
   padding: 44px 116px;
