@@ -1,11 +1,9 @@
 body {
- margin: 53px 65px;
  background-color: #1C1C1C;
 }
 
 .card-container {
-  margin-right: 49px;
-  margin-down: 39px;
+  margin: 53px 65px;
   padding: 44px 116px;
   width: 317px;
   height: 780px;
