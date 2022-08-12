@@ -3,11 +3,12 @@ body {
 }
 
 main {
+  margin: 53px 65px;
   display: flex;
 }
 
 .card-container {
-  margin: 53px 65px;
+  margin: auto;
   padding: 44px 116px;
   width: 317px;
   height: 780px;
