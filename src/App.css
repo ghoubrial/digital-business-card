@@ -41,3 +41,17 @@ main {
   margin-down: 0;
   color: #F5F5F5;
 }
+
+.social {
+  background-color: #161619;
+  display: flex;
+  align-items: center;  
+  justify-content: center;
+  width: 317px;
+  height: 64px;
+}
+
+.social > img {
+  margin-left: 12px;
+  margin-right: 12px;
+}
