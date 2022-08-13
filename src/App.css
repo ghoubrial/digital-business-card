@@ -43,6 +43,16 @@ main {
   color: #F5F5F5;
 }
 
+.about > h1 {
+  margin-bottom: 0;
+  color: #F5F5F5;
+}
+
+.about > p {
+  margin-top: 5px;
+  color: #DCDCDC;
+}
+
 .social {
   background-color: #161619;
   display: flex;
@@ -55,14 +65,4 @@ main {
 .social > img {
   margin-left: 12px;
   margin-right: 12px;
-}
-
-.about > h1 {
-  margin-bottom: 0;
-  color: #F5F5F5;
-}
-
-.about > p {
-  margin-top: 5px;
-  color: #DCDCDC;
 }
