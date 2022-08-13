@@ -55,20 +55,6 @@ main {
   color: #F5F5F5;
 }
 
-.social {
-  background-color: #161619;
-  display: flex;
-  align-items: center;  
-  justify-content: center;
-  width: 317px;
-  height: 64px;
-}
-
-.social > img {
-  margin-left: 12px;
-  margin-right: 12px;
-}
-
 .about > h1 {
   margin-bottom: 0;
   color: #F5F5F5;
@@ -86,4 +72,18 @@ main {
   font-weight: 400;
   font-size: 10.24px;
   line-height: 150%;
+}
+
+.social {
+  background-color: #161619;
+  display: flex;
+  align-items: center;  
+  justify-content: center;
+  width: 317px;
+  height: 64px;
+}
+
+.social > img {
+  margin-left: 12px;
+  margin-right: 12px;
 }
