@@ -1,6 +1,7 @@
 import Bio from "./Bio.js"
 import About from "./About"
 import Interests from "./Interests"
+import Footer from "./Footer"
 
 export default function Card() {
   return (
@@ -9,6 +10,7 @@ export default function Card() {
         <Bio />
         <About />
         <Interests />
+        <Footer />
       </div>
     </div>
   );
