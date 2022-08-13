@@ -6,10 +6,11 @@ body {
 main {
   margin: 53px 65px;
   display: flex;
+  flex-wrap: wrap;
 }
 
 .card-container {
-  margin: auto;
+  margin: 0px auto 39px auto;
   padding: 44px 116px;
   width: 317px;
   height: 780px;
